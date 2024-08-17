@@ -1,0 +1,454 @@
+{
+    "challenges": [
+        {
+            "name": "Ligue 1 & Eredivisie",
+            "priority": 0,
+            "status": "NOT_STARTED",
+            "setId": 702,
+            "description": "Exchange a Squad featuring Players from Ligue 1 or Eredivisie.",
+            "challengeId": 1815,
+            "endTime": 3959241,
+            "repeatable": true,
+            "formation": "f442",
+            "timesCompleted": 0,
+            "elgReq": [
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 11
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 2
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 16
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 10
+                },
+                {
+                    "type": "SAME_CLUB_COUNT",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 6,
+                    "eligibilityValue": 6
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 2
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "PLAYER_RARITY_GROUP",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 25,
+                    "eligibilityValue": 4
+                },
+                {
+                    "type": "TEAM_RATING_1_TO_100",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 19,
+                    "eligibilityValue": 68
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "CHEMISTRY_POINTS",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 35,
+                    "eligibilityValue": 10
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                }
+            ],
+            "elgDesc": [],
+            "awards": [
+                {
+                    "value": 302,
+                    "type": "pack",
+                    "halId": 3,
+                    "count": 1,
+                    "isUntradeable": false,
+                    "loan": 0,
+                    "loanType": "NONE"
+                }
+            ],
+            "elgOperation": "AND",
+            "tutorial": 0,
+            "type": "OPEN_CHALLENGE",
+            "challengeImageId": "3301778-98a93a65-e072"
+        },
+        {
+            "name": "Libertadores & Sudamericana",
+            "priority": 1,
+            "status": "NOT_STARTED",
+            "setId": 702,
+            "description": "Exchange a Squad featuring Players from Libertadores or Sudamericana.",
+            "challengeId": 1816,
+            "endTime": 3959241,
+            "repeatable": true,
+            "formation": "f442a",
+            "timesCompleted": 0,
+            "elgReq": [
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 11
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 2
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 1003
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 1014
+                },
+                {
+                    "type": "SAME_CLUB_COUNT",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 6,
+                    "eligibilityValue": 1
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 1
+                },
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 3
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "PLAYER_LEVEL",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 17,
+                    "eligibilityValue": 3
+                },
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 3
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "PLAYER_RARITY_GROUP",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 25,
+                    "eligibilityValue": 4
+                },
+                {
+                    "type": "TEAM_RATING_1_TO_100",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 19,
+                    "eligibilityValue": 74
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "CHEMISTRY_POINTS",
+                    "eligibilitySlot": 6,
+                    "eligibilityKey": 35,
+                    "eligibilityValue": 10
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 6,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                }
+            ],
+            "elgDesc": [],
+            "awards": [
+                {
+                    "value": 517,
+                    "type": "pack",
+                    "halId": 4,
+                    "count": 1,
+                    "isUntradeable": true,
+                    "loan": 0,
+                    "loanType": "NONE"
+                }
+            ],
+            "elgOperation": "AND",
+            "tutorial": 0,
+            "type": "OPEN_CHALLENGE",
+            "challengeImageId": "3301779-6a29c0a8-4fc1"
+        },
+        {
+            "name": "Bundesliga & Serie A",
+            "priority": 2,
+            "status": "NOT_STARTED",
+            "setId": 702,
+            "description": "Exchange a Squad featuring Players from Bundesliga or Serie A.",
+            "challengeId": 1817,
+            "endTime": 3959241,
+            "repeatable": true,
+            "formation": "f4222",
+            "timesCompleted": 0,
+            "elgReq": [
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 11
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 2
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 19
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 31
+                },
+                {
+                    "type": "SAME_CLUB_COUNT",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 6,
+                    "eligibilityValue": 1
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 1
+                },
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 3
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "PLAYER_RARITY_GROUP",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 25,
+                    "eligibilityValue": 4
+                },
+                {
+                    "type": "TEAM_RATING_1_TO_100",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 19,
+                    "eligibilityValue": 77
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "CHEMISTRY_POINTS",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 35,
+                    "eligibilityValue": 10
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                }
+            ],
+            "elgDesc": [],
+            "awards": [
+                {
+                    "value": 315,
+                    "type": "pack",
+                    "halId": 3,
+                    "count": 1,
+                    "isUntradeable": false,
+                    "loan": 0,
+                    "loanType": "NONE"
+                }
+            ],
+            "elgOperation": "AND",
+            "tutorial": 0,
+            "type": "OPEN_CHALLENGE",
+            "challengeImageId": "3301780-7c7f1df5-7c94"
+        },
+        {
+            "name": "Premier League & LaLiga",
+            "priority": 3,
+            "status": "NOT_STARTED",
+            "setId": 702,
+            "description": "Exchange a Squad featuring Players from Premier League or LaLiga.",
+            "challengeId": 1818,
+            "endTime": 3959241,
+            "repeatable": true,
+            "formation": "f4231",
+            "timesCompleted": 0,
+            "elgReq": [
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 11
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 2
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 13
+                },
+                {
+                    "type": "LEAGUE_ID",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 11,
+                    "eligibilityValue": 53
+                },
+                {
+                    "type": "SAME_CLUB_COUNT",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 6,
+                    "eligibilityValue": 1
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 1
+                },
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 4
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "PLAYER_RARITY_GROUP",
+                    "eligibilitySlot": 3,
+                    "eligibilityKey": 25,
+                    "eligibilityValue": 4
+                },
+                {
+                    "type": "TEAM_RATING_1_TO_100",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 19,
+                    "eligibilityValue": 79
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 4,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "CHEMISTRY_POINTS",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 35,
+                    "eligibilityValue": 10
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 5,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                }
+            ],
+            "elgDesc": [],
+            "awards": [
+                {
+                    "value": 316,
+                    "type": "pack",
+                    "halId": 3,
+                    "count": 1,
+                    "isUntradeable": true,
+                    "loan": 0,
+                    "loanType": "NONE"
+                }
+            ],
+            "elgOperation": "AND",
+            "tutorial": 0,
+            "type": "OPEN_CHALLENGE",
+            "challengeImageId": "3301781-6737fa4b-4f07"
+        }
+    ]
+}

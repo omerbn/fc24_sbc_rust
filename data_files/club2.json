@@ -1,0 +1,7088 @@
+{
+    "itemData": [
+        {
+            "id": 378438015871,
+            "timestamp": 1722902486,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 10264,
+            "rating": 91,
+            "itemType": "player",
+            "resourceId": 50341912,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 29,
+            "teamid": 112658,
+            "rareflag": 35,
+            "playStyle": 269,
+            "leagueId": 2118,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 34,
+            "marketDataMinPrice": 11250,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "155c3f52-2782-4327-bf9c-15c8a3d0cde7",
+            "groups": [
+                10,
+                17,
+                38
+            ],
+            "attributeArray": [
+                84,
+                89,
+                83,
+                85,
+                84,
+                90
+            ],
+            "statsArray": [
+                9,
+                0,
+                1,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                9,
+                0,
+                1,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                28,
+                31
+            ]
+        },
+        {
+            "id": 380268655806,
+            "timestamp": 1722982777,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 330,
+            "rating": 91,
+            "itemType": "player",
+            "resourceId": 67109194,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 114605,
+            "rareflag": 160,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 25,
+            "marketDataMinPrice": 11250,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "a17183be-5863-4a33-9bd8-bdc7572695f5",
+            "attributeArray": [
+                92,
+                93,
+                81,
+                93,
+                49,
+                82
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                1,
+                2,
+                6,
+                21,
+                24
+            ],
+            "iconTraits": [
+                16,
+                19
+            ]
+        },
+        {
+            "id": 355459530658,
+            "timestamp": 1722014407,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 166676,
+            "rating": 90,
+            "itemType": "player",
+            "resourceId": 50498324,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 114605,
+            "rareflag": 135,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 11000,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "efe9c913-e951-42d9-aac6-699e5cb0b268",
+            "attributeArray": [
+                90,
+                91,
+                81,
+                87,
+                48,
+                86
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                4,
+                14,
+                19,
+                22,
+                25
+            ],
+            "iconTraits": [
+                1,
+                27
+            ]
+        },
+        {
+            "id": 357403183734,
+            "timestamp": 1722081817,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 224458,
+            "rating": 90,
+            "itemType": "player",
+            "resourceId": 134442186,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CF",
+            "contract": 7,
+            "teamid": 9,
+            "rareflag": 30,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 38,
+            "marketDataMinPrice": 11000,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "666a9bab-3104-431e-a670-9229b6ce6e3b",
+            "groups": [
+                38
+            ],
+            "attributeArray": [
+                90,
+                89,
+                83,
+                91,
+                62,
+                86
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 4,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CF",
+                "ST",
+                "LW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                1,
+                2,
+                4,
+                18,
+                23
+            ],
+            "iconTraits": [
+                17,
+                27
+            ]
+        },
+        {
+            "id": 343565750763,
+            "timestamp": 1721073579,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 264095,
+            "rating": 59,
+            "itemType": "player",
+            "resourceId": 264095,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RM",
+            "contract": 10,
+            "teamid": 450,
+            "rareflag": 0,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 17,
+            "lifetimeAssists": 17,
+            "loyaltyBonus": 1,
+            "pile": 11,
+            "nation": 45,
+            "marketDataMinPrice": 150,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "attributeArray": [
+                64,
+                59,
+                53,
+                62,
+                26,
+                45
+            ],
+            "statsArray": [
+                35,
+                6,
+                2,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                35,
+                6,
+                2,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RM",
+                "RW"
+            ],
+            "gender": 0,
+            "academyAttributes": [
+                {
+                    "id": 23,
+                    "totalBonus": 89
+                },
+                {
+                    "id": 34,
+                    "totalBonus": 93
+                },
+                {
+                    "id": 29,
+                    "totalBonus": 43
+                },
+                {
+                    "id": 123,
+                    "totalBonus": 1
+                },
+                {
+                    "id": 28,
+                    "totalBonus": 74
+                },
+                {
+                    "id": 30,
+                    "totalBonus": 84
+                },
+                {
+                    "id": 26,
+                    "totalBonus": 51
+                },
+                {
+                    "id": 22,
+                    "totalBonus": 83
+                },
+                {
+                    "id": 48,
+                    "totalBonus": 72
+                },
+                {
+                    "id": 11,
+                    "totalBonus": 90
+                },
+                {
+                    "id": 33,
+                    "totalBonus": 85
+                },
+                {
+                    "id": 39,
+                    "totalBonus": 87
+                },
+                {
+                    "id": 106,
+                    "totalBonus": 2
+                },
+                {
+                    "id": 32,
+                    "totalBonus": 79
+                },
+                {
+                    "id": 81,
+                    "totalBonus": 4
+                },
+                {
+                    "id": 47,
+                    "totalBonus": 64
+                },
+                {
+                    "id": 45,
+                    "totalBonus": 52
+                },
+                {
+                    "id": 122,
+                    "totalBonus": 2
+                },
+                {
+                    "id": 109,
+                    "totalBonus": 1
+                },
+                {
+                    "id": 15,
+                    "totalBonus": 93
+                },
+                {
+                    "id": 104,
+                    "totalBonus": 1
+                },
+                {
+                    "id": 24,
+                    "totalBonus": 98
+                },
+                {
+                    "id": 82,
+                    "totalBonus": 4
+                },
+                {
+                    "id": 42,
+                    "totalBonus": 47
+                },
+                {
+                    "id": 14,
+                    "totalBonus": 85
+                },
+                {
+                    "id": 16,
+                    "totalBonus": 56
+                },
+                {
+                    "id": 0,
+                    "totalBonus": 0
+                },
+                {
+                    "id": 37,
+                    "totalBonus": 95
+                },
+                {
+                    "id": 43,
+                    "totalBonus": 99
+                },
+                {
+                    "id": 49,
+                    "totalBonus": 79
+                },
+                {
+                    "id": 13,
+                    "totalBonus": 90
+                },
+                {
+                    "id": 25,
+                    "totalBonus": 72
+                },
+                {
+                    "id": 35,
+                    "totalBonus": 96
+                },
+                {
+                    "id": 108,
+                    "totalBonus": 2
+                },
+                {
+                    "id": 27,
+                    "totalBonus": 80
+                },
+                {
+                    "id": 38,
+                    "totalBonus": 58
+                },
+                {
+                    "id": 114,
+                    "totalBonus": 2
+                },
+                {
+                    "id": 46,
+                    "totalBonus": 61
+                },
+                {
+                    "id": 12,
+                    "totalBonus": 82
+                },
+                {
+                    "id": 1,
+                    "totalBonus": 0
+                },
+                {
+                    "id": 41,
+                    "totalBonus": 83
+                },
+                {
+                    "id": 36,
+                    "totalBonus": 96
+                },
+                {
+                    "id": 17,
+                    "totalBonus": 65
+                },
+                {
+                    "id": 2,
+                    "totalBonus": 143
+                },
+                {
+                    "id": 44,
+                    "totalBonus": 84
+                },
+                {
+                    "id": 31,
+                    "totalBonus": 55
+                },
+                {
+                    "id": 40,
+                    "totalBonus": 88
+                },
+                {
+                    "id": 21,
+                    "totalBonus": 81
+                }
+            ]
+        },
+        {
+            "id": 343596037964,
+            "timestamp": 1721076618,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 177003,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 177003,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CM",
+            "contract": 30,
+            "teamid": 243,
+            "rareflag": 1,
+            "playStyle": 266,
+            "leagueId": 53,
+            "assists": 6,
+            "lifetimeAssists": 6,
+            "loyaltyBonus": 1,
+            "pile": 11,
+            "nation": 10,
+            "marketDataMinPrice": 5100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "f60ca191-fdbf-4052-93c0-697a0717ea89",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                72,
+                76,
+                89,
+                87,
+                72,
+                66
+            ],
+            "statsArray": [
+                36,
+                14,
+                3,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                36,
+                14,
+                3,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                5,
+                7,
+                9,
+                16
+            ],
+            "iconTraits": [
+                24
+            ],
+            "academyAttributes": [
+                {
+                    "id": 0,
+                    "totalBonus": 0
+                },
+                {
+                    "id": 13,
+                    "totalBonus": 78
+                },
+                {
+                    "id": 34,
+                    "totalBonus": 93
+                },
+                {
+                    "id": 28,
+                    "totalBonus": 88
+                },
+                {
+                    "id": 24,
+                    "totalBonus": 95
+                },
+                {
+                    "id": 22,
+                    "totalBonus": 72
+                },
+                {
+                    "id": 17,
+                    "totalBonus": 70
+                },
+                {
+                    "id": 29,
+                    "totalBonus": 66
+                },
+                {
+                    "id": 46,
+                    "totalBonus": 74
+                },
+                {
+                    "id": 21,
+                    "totalBonus": 77
+                },
+                {
+                    "id": 40,
+                    "totalBonus": 96
+                },
+                {
+                    "id": 26,
+                    "totalBonus": 88
+                },
+                {
+                    "id": 36,
+                    "totalBonus": 87
+                },
+                {
+                    "id": 47,
+                    "totalBonus": 78
+                },
+                {
+                    "id": 30,
+                    "totalBonus": 95
+                },
+                {
+                    "id": 14,
+                    "totalBonus": 93
+                },
+                {
+                    "id": 25,
+                    "totalBonus": 71
+                },
+                {
+                    "id": 11,
+                    "totalBonus": 90
+                },
+                {
+                    "id": 32,
+                    "totalBonus": 78
+                },
+                {
+                    "id": 38,
+                    "totalBonus": 82
+                },
+                {
+                    "id": 1,
+                    "totalBonus": 0
+                },
+                {
+                    "id": 23,
+                    "totalBonus": 95
+                },
+                {
+                    "id": 43,
+                    "totalBonus": 81
+                },
+                {
+                    "id": 107,
+                    "totalBonus": 2
+                },
+                {
+                    "id": 16,
+                    "totalBonus": 74
+                },
+                {
+                    "id": 33,
+                    "totalBonus": 95
+                },
+                {
+                    "id": 49,
+                    "totalBonus": 85
+                },
+                {
+                    "id": 35,
+                    "totalBonus": 90
+                },
+                {
+                    "id": 37,
+                    "totalBonus": 74
+                },
+                {
+                    "id": 2,
+                    "totalBonus": 142
+                },
+                {
+                    "id": 41,
+                    "totalBonus": 95
+                },
+                {
+                    "id": 44,
+                    "totalBonus": 84
+                },
+                {
+                    "id": 128,
+                    "totalBonus": 2
+                },
+                {
+                    "id": 39,
+                    "totalBonus": 57
+                },
+                {
+                    "id": 42,
+                    "totalBonus": 72
+                },
+                {
+                    "id": 48,
+                    "totalBonus": 89
+                },
+                {
+                    "id": 27,
+                    "totalBonus": 62
+                },
+                {
+                    "id": 31,
+                    "totalBonus": 82
+                },
+                {
+                    "id": 45,
+                    "totalBonus": 75
+                },
+                {
+                    "id": 105,
+                    "totalBonus": 1
+                },
+                {
+                    "id": 15,
+                    "totalBonus": 90
+                },
+                {
+                    "id": 12,
+                    "totalBonus": 74
+                }
+            ]
+        },
+        {
+            "id": 380268655822,
+            "timestamp": 1722982777,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 246174,
+            "rating": 89,
+            "itemType": "player",
+            "resourceId": 50577822,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 9,
+            "rareflag": 71,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 11000,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "c37debe4-79b3-4051-be13-543bd57ad257",
+            "groups": [
+                24,
+                38
+            ],
+            "attributeArray": [
+                86,
+                84,
+                88,
+                91,
+                60,
+                64
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CM",
+                "CAM",
+                "RW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                18,
+                24
+            ],
+            "iconTraits": [
+                16,
+                5
+            ]
+        },
+        {
+            "id": 346694986377,
+            "timestamp": 1721488531,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 247827,
+            "rating": 88,
+            "itemType": "player",
+            "resourceId": 67356691,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RW",
+            "contract": 7,
+            "teamid": 1799,
+            "rareflag": 71,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "12a1f7b6-b85f-4884-bbc8-cc317eab81e6",
+            "groups": [
+                24,
+                38
+            ],
+            "attributeArray": [
+                91,
+                84,
+                88,
+                92,
+                61,
+                72
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 4,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "RM",
+                "RW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                3,
+                7,
+                16,
+                18,
+                25
+            ],
+            "iconTraits": [
+                24,
+                6
+            ]
+        },
+        {
+            "id": 354590690192,
+            "timestamp": 1721946619,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 216267,
+            "rating": 88,
+            "itemType": "player",
+            "resourceId": 50547915,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LB",
+            "contract": 7,
+            "teamid": 9,
+            "rareflag": 22,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 42,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "3841a079-6986-4afc-bfec-a1974c2993fd",
+            "attributeArray": [
+                86,
+                63,
+                84,
+                83,
+                83,
+                80
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "LB",
+                "LWB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                6,
+                9,
+                23
+            ],
+            "iconTraits": [
+                17
+            ]
+        },
+        {
+            "id": 354717041286,
+            "timestamp": 1721953638,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 271574,
+            "rating": 88,
+            "itemType": "player",
+            "resourceId": 50603222,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "arm",
+            "injuryGames": 0,
+            "preferredPosition": "RB",
+            "contract": 20,
+            "teamid": 10,
+            "rareflag": 71,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 3,
+            "lifetimeAssists": 3,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "61e62281-5118-419f-b770-70e7a4c04534",
+            "groups": [
+                24,
+                38
+            ],
+            "attributeArray": [
+                91,
+                60,
+                83,
+                88,
+                86,
+                83
+            ],
+            "statsArray": [
+                31,
+                0,
+                2,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                31,
+                0,
+                2,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RWB",
+                "RB",
+                "CDM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                6,
+                11,
+                23
+            ],
+            "iconTraits": [
+                10
+            ]
+        },
+        {
+            "id": 372458552712,
+            "timestamp": 1722641737,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 254840,
+            "rating": 88,
+            "itemType": "player",
+            "resourceId": 50586488,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 191,
+            "rareflag": 11,
+            "playStyle": 250,
+            "leagueId": 80,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 51,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 65000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "212f70a3-b4b3-4982-8908-6c906c7205ad",
+            "groups": [
+                27,
+                28,
+                30
+            ],
+            "attributeArray": [
+                85,
+                56,
+                63,
+                79,
+                88,
+                96
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                6,
+                13,
+                15,
+                23
+            ],
+            "iconTraits": [
+                27,
+                11
+            ]
+        },
+        {
+            "id": 378400647749,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 227316,
+            "rating": 88,
+            "itemType": "player",
+            "resourceId": 227316,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 116033,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2218,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 6100,
+            "marketDataMaxPrice": 13000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "d6f700d8-afa7-4bcc-ba47-3191fd80e548",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                53,
+                67,
+                69,
+                69,
+                91,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                4,
+                7,
+                10,
+                27
+            ],
+            "iconTraits": [
+                13
+            ]
+        },
+        {
+            "id": 347240553078,
+            "timestamp": 1721512570,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 209499,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 209499,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 0,
+            "teamid": 607,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 350,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 11,
+            "nation": 54,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "8d499435-4bdf-4779-b836-a685d59800cb",
+            "groups": [
+                9
+            ],
+            "attributeArray": [
+                59,
+                69,
+                78,
+                77,
+                82,
+                82
+            ],
+            "statsArray": [
+                7,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                7,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                2,
+                7,
+                11,
+                14,
+                15
+            ],
+            "academyAttributes": [
+                {
+                    "id": 0,
+                    "totalBonus": 0
+                },
+                {
+                    "id": 25,
+                    "totalBonus": 86
+                },
+                {
+                    "id": 24,
+                    "totalBonus": 68
+                },
+                {
+                    "id": 43,
+                    "totalBonus": 87
+                },
+                {
+                    "id": 37,
+                    "totalBonus": 68
+                },
+                {
+                    "id": 2,
+                    "totalBonus": 60
+                },
+                {
+                    "id": 101,
+                    "totalBonus": 1
+                },
+                {
+                    "id": 13,
+                    "totalBonus": 74
+                },
+                {
+                    "id": 15,
+                    "totalBonus": 85
+                },
+                {
+                    "id": 27,
+                    "totalBonus": 91
+                },
+                {
+                    "id": 36,
+                    "totalBonus": 86
+                },
+                {
+                    "id": 11,
+                    "totalBonus": 88
+                },
+                {
+                    "id": 34,
+                    "totalBonus": 89
+                },
+                {
+                    "id": 44,
+                    "totalBonus": 75
+                },
+                {
+                    "id": 1,
+                    "totalBonus": 0
+                },
+                {
+                    "id": 17,
+                    "totalBonus": 93
+                },
+                {
+                    "id": 30,
+                    "totalBonus": 94
+                },
+                {
+                    "id": 49,
+                    "totalBonus": 97
+                },
+                {
+                    "id": 47,
+                    "totalBonus": 50
+                },
+                {
+                    "id": 32,
+                    "totalBonus": 75
+                },
+                {
+                    "id": 26,
+                    "totalBonus": 96
+                },
+                {
+                    "id": 82,
+                    "totalBonus": 3
+                },
+                {
+                    "id": 23,
+                    "totalBonus": 67
+                },
+                {
+                    "id": 29,
+                    "totalBonus": 95
+                },
+                {
+                    "id": 28,
+                    "totalBonus": 91
+                }
+            ]
+        },
+        {
+            "id": 343595074149,
+            "timestamp": 1721076523,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 227776,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 227776,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 1,
+            "teamid": 116325,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 2222,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 5100,
+            "marketDataMaxPrice": 14000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "a96efff5-7214-4d36-a54e-fadb8703f1af",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                86,
+                82,
+                84,
+                89,
+                56,
+                87
+            ],
+            "statsArray": [
+                48,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                48,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                30
+            ]
+        },
+        {
+            "id": 347278068467,
+            "timestamp": 1721514495,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 231478,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 231478,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 44,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 52,
+            "marketDataMinPrice": 5100,
+            "marketDataMaxPrice": 14000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "dd392416-1a1b-4f5a-b8b8-abaadbc8b5f1",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                80,
+                86,
+                71,
+                85,
+                48,
+                85
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                16,
+                18,
+                24
+            ]
+        },
+        {
+            "id": 348656770717,
+            "timestamp": 1721599935,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 212138,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 67321002,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RWB",
+            "contract": 7,
+            "teamid": 64,
+            "rareflag": 30,
+            "playStyle": 250,
+            "leagueId": 16,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 37,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "ca21b56f-ca83-4c55-8240-4d380b358ce7",
+            "groups": [
+                38
+            ],
+            "attributeArray": [
+                95,
+                82,
+                84,
+                82,
+                80,
+                82
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 4,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RWB",
+                "RB",
+                "LB",
+                "LWB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                7,
+                11,
+                12,
+                14,
+                17,
+                22
+            ],
+            "iconTraits": [
+                9,
+                10
+            ]
+        },
+        {
+            "id": 354588725601,
+            "timestamp": 1721946526,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 243030,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 50574678,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 4,
+            "teamid": 112658,
+            "rareflag": 168,
+            "playStyle": 250,
+            "leagueId": 2118,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 27,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "ac4a72d2-4dd3-42cf-a2cf-2bd36f773eba",
+            "groups": [
+                10
+            ],
+            "attributeArray": [
+                75,
+                63,
+                70,
+                71,
+                90,
+                88
+            ],
+            "statsArray": [
+                3,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                3,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "startTime": 0,
+            "endTime": 0,
+            "possiblePositions": [
+                "CDM",
+                "CM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                12,
+                15
+            ],
+            "iconTraits": [
+                23
+            ]
+        },
+        {
+            "id": 354590081005,
+            "timestamp": 1721946587,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 226166,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 50557814,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RB",
+            "contract": 25,
+            "teamid": 73,
+            "rareflag": 117,
+            "playStyle": 250,
+            "leagueId": 16,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "ea0b4943-9903-46fa-b001-ef61810709e8",
+            "groups": [
+                17,
+                38
+            ],
+            "attributeArray": [
+                89,
+                53,
+                89,
+                88,
+                82,
+                82
+            ],
+            "statsArray": [
+                11,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                11,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RWB",
+                "RB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                6,
+                7,
+                10,
+                14
+            ],
+            "iconTraits": [
+                9
+            ]
+        },
+        {
+            "id": 355447726859,
+            "timestamp": 1722014145,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 193082,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 50524730,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RM",
+            "contract": 0,
+            "teamid": 44,
+            "rareflag": 33,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 56,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "0e3ba8b3-f6c3-4f28-bf8e-29315273ebf3",
+            "attributeArray": [
+                95,
+                81,
+                85,
+                91,
+                83,
+                78
+            ],
+            "statsArray": [
+                7,
+                1,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                7,
+                1,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 4,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 1,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RB",
+                "RM",
+                "RW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                2,
+                9,
+                16,
+                19,
+                20
+            ],
+            "iconTraits": [
+                18
+            ]
+        },
+        {
+            "id": 378233584516,
+            "timestamp": 1722895624,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 257191,
+            "rating": 87,
+            "itemType": "player",
+            "resourceId": 100920487,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CM",
+            "contract": 7,
+            "teamid": 10029,
+            "rareflag": 30,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 10750,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "32e2bcf9-2f29-4fb8-969f-faec4794cedc",
+            "groups": [
+                38
+            ],
+            "attributeArray": [
+                83,
+                82,
+                85,
+                82,
+                85,
+                87
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 4,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM",
+                "CF"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                2,
+                6,
+                15,
+                21,
+                27
+            ],
+            "iconTraits": [
+                12,
+                23
+            ]
+        },
+        {
+            "id": 347278068466,
+            "timestamp": 1721514495,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 245872,
+            "rating": 86,
+            "itemType": "player",
+            "resourceId": 245872,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CM",
+            "contract": 7,
+            "teamid": 116009,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2216,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 42,
+            "marketDataMinPrice": 3600,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "28400cc8-ca46-43ce-a0cd-0d5fe03a779d",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                76,
+                78,
+                83,
+                88,
+                62,
+                66
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM",
+                "CAM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                5
+            ],
+            "iconTraits": [
+                21
+            ]
+        },
+        {
+            "id": 362443585765,
+            "timestamp": 1722214255,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 205600,
+            "rating": 86,
+            "itemType": "player",
+            "resourceId": 50537248,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 65,
+            "rareflag": 33,
+            "playStyle": 250,
+            "leagueId": 16,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "481bd6d4-35e5-4096-b109-a8f7e7288bbb",
+            "attributeArray": [
+                82,
+                69,
+                76,
+                73,
+                87,
+                83
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 1,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                10,
+                11,
+                12,
+                13,
+                15,
+                27
+            ]
+        },
+        {
+            "id": 378234765402,
+            "timestamp": 1722895658,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 237197,
+            "rating": 86,
+            "itemType": "player",
+            "resourceId": 237197,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CM",
+            "contract": 7,
+            "teamid": 116034,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2218,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 3600,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "2ad8f03b-e9be-4ae4-a7ed-2ee180b73372",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                77,
+                72,
+                82,
+                82,
+                83,
+                78
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                7
+            ],
+            "iconTraits": [
+                23
+            ]
+        },
+        {
+            "id": 378400647745,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 241486,
+            "rating": 86,
+            "itemType": "player",
+            "resourceId": 50573134,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 241,
+            "rareflag": 22,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "ae19b34e-fbfd-45d0-b9a6-007fd39d080e",
+            "attributeArray": [
+                85,
+                46,
+                70,
+                76,
+                87,
+                82
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RB",
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                10,
+                15,
+                22,
+                23
+            ],
+            "iconTraits": [
+                14
+            ]
+        },
+        {
+            "id": 378400647746,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 256781,
+            "rating": 86,
+            "itemType": "player",
+            "resourceId": 50588429,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LB",
+            "contract": 7,
+            "teamid": 23,
+            "rareflag": 71,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "f4ef7e02-ac63-4dd9-b3a3-3f2020749b23",
+            "groups": [
+                24,
+                38
+            ],
+            "attributeArray": [
+                89,
+                60,
+                83,
+                85,
+                86,
+                83
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "LB",
+                "LWB",
+                "LM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                7,
+                10,
+                12,
+                21,
+                22,
+                26
+            ],
+            "iconTraits": [
+                23
+            ]
+        },
+        {
+            "id": 343641195576,
+            "timestamp": 1721081743,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 235657,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 235657,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 1,
+            "teamid": 116015,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2216,
+            "assists": 6,
+            "lifetimeAssists": 6,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 2100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "81ebedb0-3fde-4479-80e0-91a077e49d43",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                77,
+                85,
+                76,
+                82,
+                64,
+                76
+            ],
+            "statsArray": [
+                6,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                6,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "LB",
+                "CF",
+                "ST"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                0
+            ]
+        },
+        {
+            "id": 346646362489,
+            "timestamp": 1721485007,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 224389,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 50556037,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RW",
+            "contract": 7,
+            "teamid": 819,
+            "rareflag": 95,
+            "playStyle": 250,
+            "leagueId": 1,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 46,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "ca4c690c-f967-4d08-9e08-9215413dba2c",
+            "attributeArray": [
+                90,
+                81,
+                80,
+                84,
+                44,
+                78
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "RM",
+                "RW",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                2,
+                6,
+                17,
+                18,
+                19
+            ]
+        },
+        {
+            "id": 347240860990,
+            "timestamp": 1721512585,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 235794,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 50567442,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 1799,
+            "rareflag": 117,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "d4f9960a-b33e-4721-b886-003a32aeeff7",
+            "groups": [
+                17,
+                38
+            ],
+            "attributeArray": [
+                81,
+                80,
+                99,
+                86,
+                54,
+                73
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CM",
+                "CAM",
+                "LW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                7,
+                16,
+                18,
+                24
+            ],
+            "iconTraits": [
+                8
+            ]
+        },
+        {
+            "id": 347276651704,
+            "timestamp": 1721514432,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 237681,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 67346545,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RW",
+            "contract": 7,
+            "teamid": 457,
+            "rareflag": 22,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 163,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "5f3f6073-1d30-4fe9-9ef5-fe8631037442",
+            "attributeArray": [
+                89,
+                82,
+                82,
+                89,
+                44,
+                65
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "RM",
+                "CAM",
+                "RW",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                16,
+                18,
+                20
+            ],
+            "iconTraits": [
+                19
+            ]
+        },
+        {
+            "id": 347278068473,
+            "timestamp": 1721514495,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 201995,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 50533643,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RW",
+            "contract": 0,
+            "teamid": 115841,
+            "rareflag": 151,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 54,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "b1fccd02-dbee-45bb-8920-c80b572a665c",
+            "attributeArray": [
+                90,
+                82,
+                82,
+                89,
+                68,
+                78
+            ],
+            "statsArray": [
+                7,
+                3,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                7,
+                3,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "startTime": 0,
+            "endTime": 0,
+            "possiblePositions": [
+                "RM",
+                "RW",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                17,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "id": 354588725602,
+            "timestamp": 1721946526,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 271160,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 84157240,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RW",
+            "contract": 7,
+            "teamid": 110500,
+            "rareflag": 95,
+            "playStyle": 250,
+            "leagueId": 20,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "45772bf3-ad02-4fd3-9656-5f684524ffb3",
+            "attributeArray": [
+                88,
+                82,
+                83,
+                86,
+                66,
+                85
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RM",
+                "RW",
+                "LW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                6,
+                16,
+                22
+            ]
+        },
+        {
+            "id": 354591254952,
+            "timestamp": 1721946647,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 214997,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 50546645,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 240,
+            "rareflag": 151,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 52,
+            "marketDataMinPrice": 10500,
+            "marketDataMaxPrice": 30000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "0b692daf-3367-4ab4-a8bf-1dbc64c0f924",
+            "attributeArray": [
+                87,
+                86,
+                81,
+                88,
+                54,
+                78
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RM",
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                16,
+                18,
+                20,
+                24
+            ]
+        },
+        {
+            "id": 355447726858,
+            "timestamp": 1722014145,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 202811,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 202811,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 7,
+            "teamid": 2,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 52,
+            "marketDataMinPrice": 2100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "6b545edc-b69b-4e26-bdd2-02565feba16d",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                83,
+                83,
+                82,
+                85,
+                58,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                28,
+                30
+            ]
+        },
+        {
+            "id": 355616956955,
+            "timestamp": 1722016887,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 242830,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 242830,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 116325,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2222,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 2100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "49cc7ce3-20ff-49e8-b105-d8c10e1a011a",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                64,
+                46,
+                81,
+                79,
+                79,
+                75
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                8,
+                21
+            ]
+        },
+        {
+            "id": 355619719355,
+            "timestamp": 1722016936,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 186345,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 186345,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RB",
+            "contract": 7,
+            "teamid": 13,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 2100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "a1b32689-a51c-4656-85ef-452ac905afb1",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                68,
+                65,
+                86,
+                79,
+                82,
+                72
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RWB",
+                "RB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                3,
+                26
+            ],
+            "iconTraits": [
+                9
+            ]
+        },
+        {
+            "id": 364758850739,
+            "timestamp": 1722295234,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 212218,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 212218,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 112139,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 350,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 2100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "514697c8-5139-4b6c-81c8-130015f31b0c",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                61,
+                50,
+                73,
+                69,
+                86,
+                78
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                7
+            ]
+        },
+        {
+            "id": 378234765401,
+            "timestamp": 1722895658,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 209981,
+            "rating": 85,
+            "itemType": "player",
+            "resourceId": 209981,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 7,
+            "teamid": 605,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 350,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 129,
+            "marketDataMinPrice": 2100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "c213f919-cf3f-4c11-bf94-cf2d5286dc88",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                82,
+                83,
+                79,
+                87,
+                38,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                28,
+                29,
+                30
+            ]
+        },
+        {
+            "id": 343595074159,
+            "timestamp": 1721076523,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 198706,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 198706,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CM",
+            "contract": 5,
+            "teamid": 115841,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 1,
+            "lifetimeAssists": 1,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "d2f290df-a055-40bc-bd70-dc533c4591db",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                69,
+                77,
+                85,
+                84,
+                62,
+                58
+            ],
+            "statsArray": [
+                15,
+                3,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                15,
+                3,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                19,
+                24
+            ],
+            "iconTraits": [
+                5
+            ]
+        },
+        {
+            "id": 343641481089,
+            "timestamp": 1721081757,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 201024,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 201024,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 6,
+            "teamid": 605,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 350,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 136,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "e88d7634-c65a-461b-b23d-2932afe78408",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                76,
+                48,
+                63,
+                68,
+                84,
+                83
+            ],
+            "statsArray": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                11,
+                15
+            ]
+        },
+        {
+            "id": 343641742818,
+            "timestamp": 1721081803,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 232580,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 232580,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 1,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 54,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "d72ea6e2-b79a-4206-b806-a2bebf1bcde1",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                70,
+                41,
+                62,
+                60,
+                85,
+                82
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                15,
+                27
+            ]
+        },
+        {
+            "id": 347278068472,
+            "timestamp": 1721514495,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 232363,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 232363,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 73,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 16,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 43,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "32bb5d2e-1e39-4cd6-a130-3c5c65d7bae9",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                78,
+                41,
+                57,
+                67,
+                86,
+                83
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 1,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                10,
+                15
+            ]
+        },
+        {
+            "id": 354587960881,
+            "timestamp": 1721946488,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 264884,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 264884,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 116034,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2218,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 37,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "a6465d07-4e26-435c-874a-8660eeacc8f4",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                64,
+                46,
+                64,
+                68,
+                88,
+                76
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                12,
+                27
+            ],
+            "iconTraits": [
+                13
+            ]
+        },
+        {
+            "id": 354587960887,
+            "timestamp": 1721946488,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 189881,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 189881,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 114912,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "0b13d200-bace-4053-9415-4cb93db21851",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                62,
+                47,
+                58,
+                62,
+                87,
+                82
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                27
+            ]
+        },
+        {
+            "id": 354590315154,
+            "timestamp": 1721946604,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 238074,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 238074,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RB",
+            "contract": 7,
+            "teamid": 5,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "37d2c935-040a-4f64-a3c2-214410d61678",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                80,
+                72,
+                83,
+                82,
+                82,
+                81
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RWB",
+                "RB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                9,
+                15
+            ],
+            "iconTraits": [
+                10
+            ]
+        },
+        {
+            "id": 355459530657,
+            "timestamp": 1722014407,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 266816,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 266816,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 7,
+            "teamid": 116304,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 2221,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 95,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "d4cc5d06-7fdf-416c-ad4b-486e45c73212",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                85,
+                83,
+                75,
+                85,
+                41,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                28,
+                30
+            ]
+        },
+        {
+            "id": 355617956107,
+            "timestamp": 1722016903,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 235805,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 235805,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LM",
+            "contract": 7,
+            "teamid": 45,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 27,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "366f3eda-6001-4286-a27b-7f2f521ae250",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                91,
+                82,
+                76,
+                86,
+                53,
+                75
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "LM",
+                "RW",
+                "LW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                18,
+                22,
+                24
+            ],
+            "iconTraits": [
+                17
+            ]
+        },
+        {
+            "id": 364757293370,
+            "timestamp": 1722295179,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 227110,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 227110,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LW",
+            "contract": 7,
+            "teamid": 116009,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2216,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 195,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "9a76a661-57c0-4996-864c-094a683f243a",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                86,
+                77,
+                80,
+                83,
+                45,
+                70
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "LM",
+                "CAM",
+                "RW",
+                "LW"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                17,
+                22
+            ]
+        },
+        {
+            "id": 378151848909,
+            "timestamp": 1722893417,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 265252,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 265252,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RB",
+            "contract": 7,
+            "teamid": 116011,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2216,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "d312a70c-3317-404e-b092-d813449140b1",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                77,
+                70,
+                77,
+                77,
+                85,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RWB",
+                "RB",
+                "RM",
+                "LM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                4,
+                9,
+                10,
+                13,
+                14,
+                17,
+                23
+            ]
+        },
+        {
+            "id": 378225986457,
+            "timestamp": 1722895414,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 233419,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 233419,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RW",
+            "contract": 7,
+            "teamid": 241,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 54,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "3ee02b8d-c2f0-4e82-8107-9dcf6acb8e74",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                91,
+                79,
+                78,
+                86,
+                53,
+                73
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "RM",
+                "RW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                2,
+                17,
+                18,
+                20,
+                22,
+                23
+            ]
+        },
+        {
+            "id": 378231437440,
+            "timestamp": 1722895565,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 227331,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 227331,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 116033,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2218,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "72bd0cc1-6871-4319-81f9-ab0b5dd1d7d2",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                70,
+                85,
+                79,
+                85,
+                43,
+                71
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CF",
+                "ST",
+                "LW"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                16,
+                19
+            ]
+        },
+        {
+            "id": 378399353154,
+            "timestamp": 1722900965,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 210008,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 210008,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CM",
+            "contract": 7,
+            "teamid": 45,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "429f79ec-a29e-4ace-a117-2710837e047d",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                78,
+                76,
+                80,
+                80,
+                82,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CM",
+                "LM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                19,
+                27
+            ]
+        },
+        {
+            "id": 378399824710,
+            "timestamp": 1722900981,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 220697,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 220697,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 18,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "dd3e6d1b-c021-4c6e-ab40-17a45e35ebe3",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                71,
+                81,
+                86,
+                86,
+                54,
+                63
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RM",
+                "CM",
+                "CAM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                5,
+                7,
+                18,
+                24
+            ],
+            "iconTraits": [
+                3
+            ]
+        },
+        {
+            "id": 378400647739,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 206113,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 206113,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RM",
+            "contract": 7,
+            "teamid": 21,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "93b141e9-3e90-4069-975d-7a2f04d9c3bb",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                81,
+                84,
+                78,
+                84,
+                43,
+                68
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RM",
+                "LM",
+                "RW",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                16
+            ]
+        },
+        {
+            "id": 378400647742,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 224293,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 224293,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 605,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 350,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 38,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "46cd8b43-7bec-4880-8331-a3c64fb380a0",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                60,
+                75,
+                86,
+                77,
+                76,
+                73
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                2,
+                7
+            ]
+        },
+        {
+            "id": 378400647753,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 227096,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 227096,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LB",
+            "contract": 7,
+            "teamid": 116280,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2236,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 27,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "b293c95c-1956-4ba9-be56-1d14abdf9cf4",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                75,
+                68,
+                81,
+                81,
+                81,
+                86
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "LB",
+                "LWB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                9,
+                15
+            ]
+        },
+        {
+            "id": 380268655816,
+            "timestamp": 1722982777,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 239345,
+            "rating": 84,
+            "itemType": "player",
+            "resourceId": 239345,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 115995,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2215,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 1100,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "ba6602f6-2141-4e00-a35a-c7bf08d21cd2",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                77,
+                77,
+                79,
+                86,
+                46,
+                61
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CM",
+                "CAM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                5,
+                16
+            ]
+        },
+        {
+            "id": 343595074148,
+            "timestamp": 1721076523,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 246178,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 246178,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 7,
+            "teamid": 116280,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 2236,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 18,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                81,
+                80,
+                82,
+                85,
+                47,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 1,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                31
+            ]
+        },
+        {
+            "id": 343596338521,
+            "timestamp": 1721076658,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 216460,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 216460,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 240,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 60,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                71,
+                46,
+                58,
+                61,
+                85,
+                82
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                14,
+                27
+            ]
+        },
+        {
+            "id": 343641788538,
+            "timestamp": 1721081791,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 263011,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 263011,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 116012,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2216,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "9747f6f4-6513-405e-b8c4-4795e0afd7e2",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                81,
+                79,
+                77,
+                85,
+                51,
+                65
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 4,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CM",
+                "CAM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                1,
+                5,
+                16,
+                20,
+                24
+            ],
+            "iconTraits": [
+                18
+            ]
+        },
+        {
+            "id": 347240089532,
+            "timestamp": 1721512548,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 216352,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 216352,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 112139,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 350,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 10,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                66,
+                74,
+                81,
+                80,
+                80,
+                78
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                7,
+                21,
+                23
+            ]
+        },
+        {
+            "id": 347240860992,
+            "timestamp": 1721512585,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 213661,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 213661,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 241,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 13,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                67,
+                32,
+                68,
+                71,
+                85,
+                76
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 1,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0
+        },
+        {
+            "id": 347277720098,
+            "timestamp": 1721514477,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 261773,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 261773,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 115997,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2215,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                81,
+                84,
+                72,
+                81,
+                26,
+                72
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 1,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CAM",
+                "ST"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                10,
+                18,
+                19,
+                21
+            ]
+        },
+        {
+            "id": 347278068470,
+            "timestamp": 1721514495,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 205988,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 205988,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LB",
+            "contract": 4,
+            "teamid": 11,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 14,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                76,
+                57,
+                82,
+                79,
+                81,
+                78
+            ],
+            "statsArray": [
+                3,
+                0,
+                1,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                3,
+                0,
+                1,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB",
+                "LB",
+                "LWB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                10
+            ]
+        },
+        {
+            "id": 347278068471,
+            "timestamp": 1721514495,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 225659,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 225659,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 449,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 52,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                51,
+                58,
+                72,
+                70,
+                85,
+                80
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                8,
+                13,
+                14,
+                15,
+                24
+            ]
+        },
+        {
+            "id": 347278068475,
+            "timestamp": 1721514495,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 247788,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 247788,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LB",
+            "contract": 6,
+            "teamid": 115995,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2215,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                80,
+                59,
+                77,
+                84,
+                80,
+                69
+            ],
+            "statsArray": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                1,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RB",
+                "LB",
+                "LWB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                10,
+                13,
+                17,
+                19
+            ]
+        },
+        {
+            "id": 347319458774,
+            "timestamp": 1721516814,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 216547,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 216547,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CF",
+            "contract": 7,
+            "teamid": 234,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 308,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 38,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "4e7ceaf7-f248-4485-800e-bbf4f1ebc18b",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                93,
+                77,
+                77,
+                86,
+                50,
+                54
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RM",
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                17,
+                18,
+                19,
+                22,
+                24,
+                25
+            ]
+        },
+        {
+            "id": 347319458775,
+            "timestamp": 1721516814,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 220834,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 220834,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "RW",
+            "contract": 23,
+            "teamid": 73,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 16,
+            "assists": 7,
+            "lifetimeAssists": 7,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                81,
+                81,
+                81,
+                83,
+                43,
+                63
+            ],
+            "statsArray": [
+                13,
+                2,
+                1,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                13,
+                2,
+                1,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "RM",
+                "RW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                5,
+                9
+            ]
+        },
+        {
+            "id": 348569579800,
+            "timestamp": 1721595839,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 241464,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 241464,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 2,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                72,
+                38,
+                68,
+                70,
+                84,
+                81
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                7
+            ]
+        },
+        {
+            "id": 348656640023,
+            "timestamp": 1721599919,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 230869,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 230869,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 7,
+            "teamid": 448,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                84,
+                79,
+                77,
+                85,
+                49,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                29,
+                30
+            ]
+        },
+        {
+            "id": 348656640024,
+            "timestamp": 1721599919,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 233838,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 50565486,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LB",
+            "contract": 7,
+            "teamid": 116303,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2221,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 2700,
+            "marketDataMaxPrice": 12750,
+            "resourceGameYear": 2024,
+            "guidAssetId": "faaef3d6-223d-4f60-a686-cfcc2cef5918",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                80,
+                51,
+                71,
+                76,
+                81,
+                76
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "LB",
+                "LWB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                12,
+                15
+            ]
+        },
+        {
+            "id": 354587960889,
+            "timestamp": 1721946488,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 265240,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 265240,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 116009,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2216,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 47,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "49fd3dbf-bb51-472a-8118-3038c2e218a4",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                80,
+                62,
+                77,
+                83,
+                81,
+                76
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                13,
+                14,
+                21
+            ]
+        },
+        {
+            "id": 354588528279,
+            "timestamp": 1721946512,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 180930,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 180930,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 326,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 68,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 8,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                59,
+                84,
+                72,
+                77,
+                45,
+                76
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                16,
+                25
+            ]
+        },
+        {
+            "id": 354717363841,
+            "timestamp": 1721953669,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 244260,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 244260,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 112172,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                68,
+                76,
+                82,
+                86,
+                50,
+                59
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CAM",
+                "CF"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                5,
+                8,
+                16,
+                18,
+                19,
+                24
+            ]
+        },
+        {
+            "id": 354717363843,
+            "timestamp": 1721953669,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 246430,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 246430,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 45,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 51,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                80,
+                85,
+                66,
+                79,
+                29,
+                82
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                0,
+                1,
+                18
+            ]
+        },
+        {
+            "id": 362444409907,
+            "timestamp": 1722214288,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 204638,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 204638,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 112172,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 23,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                58,
+                36,
+                56,
+                56,
+                85,
+                81
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 1,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                7,
+                13
+            ]
+        },
+        {
+            "id": 378151848918,
+            "timestamp": 1722893417,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 208574,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 208574,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LM",
+            "contract": 7,
+            "teamid": 45,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 51,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                85,
+                76,
+                82,
+                82,
+                70,
+                80
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "LM",
+                "LW"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                5,
+                9,
+                17
+            ]
+        },
+        {
+            "id": 378227248914,
+            "timestamp": 1722895446,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 264886,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 264886,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 115995,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2215,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 24,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                72,
+                54,
+                67,
+                61,
+                86,
+                77
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                7,
+                12,
+                27
+            ]
+        },
+        {
+            "id": 378230077602,
+            "timestamp": 1722895527,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 200724,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 200724,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 243,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 53,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "52cbcbef-3b57-45a8-aebb-bdf57b71b98e",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                75,
+                37,
+                69,
+                71,
+                82,
+                80
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 1,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RB",
+                "CB",
+                "LB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                11,
+                12,
+                27
+            ]
+        },
+        {
+            "id": 378233584517,
+            "timestamp": 1722895624,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 205693,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 205693,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 3,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "ST",
+            "contract": 7,
+            "teamid": 22,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 108,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                62,
+                81,
+                63,
+                76,
+                52,
+                81
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CF",
+                "ST"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                18,
+                25,
+                27
+            ]
+        },
+        {
+            "id": 378399353155,
+            "timestamp": 1722900965,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 233756,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 50565404,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 116012,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2216,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 34,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "6bd63fda-2372-46f1-b7d0-1b64a20fc7d0",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                78,
+                59,
+                75,
+                75,
+                83,
+                80
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB",
+                "LB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                7,
+                11,
+                22,
+                27
+            ]
+        },
+        {
+            "id": 378399824708,
+            "timestamp": 1722900981,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 264994,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 264994,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "LB",
+            "contract": 7,
+            "teamid": 115995,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2215,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 4,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                77,
+                50,
+                77,
+                79,
+                82,
+                74
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "LB",
+                "LWB",
+                "LM"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                7,
+                10,
+                11,
+                18
+            ]
+        },
+        {
+            "id": 378399824709,
+            "timestamp": 1722900981,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 262531,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 262531,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 116325,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2222,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "88feb755-ca07-45d2-ab01-9baba3cd97f3",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                73,
+                82,
+                81,
+                82,
+                45,
+                68
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 3,
+            "weakfootabilitytypecode": 5,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CM",
+                "CAM",
+                "LW"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                0,
+                5,
+                8,
+                18,
+                24
+            ]
+        },
+        {
+            "id": 378400647740,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 251809,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 251809,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 13,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 34,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                65,
+                37,
+                63,
+                66,
+                84,
+                84
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                7,
+                10,
+                15
+            ]
+        },
+        {
+            "id": 378400647741,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 189511,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 189511,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 112893,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 39,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 45,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                37,
+                62,
+                79,
+                79,
+                81,
+                73
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                5,
+                7,
+                13,
+                21
+            ]
+        },
+        {
+            "id": 378400647743,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 227236,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 227236,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 116365,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 103,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "guidAssetId": "258ce2bf-185d-4993-b8d6-ccee318a4c9d",
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                78,
+                68,
+                72,
+                81,
+                81,
+                86
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                16,
+                18,
+                23
+            ]
+        },
+        {
+            "id": 378400647744,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 229582,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 229582,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 114912,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 31,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 27,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                67,
+                45,
+                54,
+                62,
+                83,
+                86
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CB"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                4,
+                14,
+                15
+            ]
+        },
+        {
+            "id": 378400647748,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 226998,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 226998,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 1,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CB",
+            "contract": 7,
+            "teamid": 115995,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 2215,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 46,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                64,
+                46,
+                72,
+                66,
+                85,
+                81
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 1,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 2,
+            "preferredfoot": 2,
+            "possiblePositions": [
+                "CB",
+                "LB"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                11,
+                13,
+                27
+            ]
+        },
+        {
+            "id": 378400647750,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 210324,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 210324,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CAM",
+            "contract": 7,
+            "teamid": 32,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 19,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 21,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                76,
+                79,
+                83,
+                81,
+                64,
+                73
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 4,
+            "attackingworkrate": 2,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "RM",
+                "LM",
+                "CAM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                3,
+                5,
+                9,
+                16,
+                23
+            ]
+        },
+        {
+            "id": 378400647752,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 205498,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 205498,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 2,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "CDM",
+            "contract": 7,
+            "teamid": 1,
+            "rareflag": 1,
+            "playStyle": 250,
+            "leagueId": 13,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 27,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                53,
+                67,
+                84,
+                81,
+                74,
+                73
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 2,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "CDM",
+                "CM"
+            ],
+            "gender": 0,
+            "baseTraits": [
+                5,
+                6,
+                13,
+                19,
+                21
+            ]
+        },
+        {
+            "id": 378400647754,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 226335,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 226335,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 7,
+            "teamid": 116305,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 2221,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 95,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                85,
+                81,
+                83,
+                82,
+                46,
+                87
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 3,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                30
+            ]
+        },
+        {
+            "id": 378400647755,
+            "timestamp": 1722901019,
+            "formation": "f3412",
+            "untradeable": true,
+            "assetId": 243775,
+            "rating": 83,
+            "itemType": "player",
+            "resourceId": 243775,
+            "owners": 1,
+            "discardValue": 0,
+            "itemState": "free",
+            "cardsubtypeid": 0,
+            "lastSalePrice": 0,
+            "injuryType": "none",
+            "injuryGames": 0,
+            "preferredPosition": "GK",
+            "contract": 7,
+            "teamid": 116303,
+            "rareflag": 1,
+            "playStyle": 273,
+            "leagueId": 2221,
+            "assists": 0,
+            "lifetimeAssists": 0,
+            "loyaltyBonus": 1,
+            "pile": 7,
+            "nation": 95,
+            "marketDataMinPrice": 850,
+            "marketDataMaxPrice": 10000,
+            "resourceGameYear": 2024,
+            "groups": [
+                4
+            ],
+            "attributeArray": [
+                84,
+                82,
+                74,
+                85,
+                40,
+                86
+            ],
+            "statsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "lifetimeStatsArray": [
+                0,
+                0,
+                0,
+                0,
+                0
+            ],
+            "skillmoves": 0,
+            "weakfootabilitytypecode": 2,
+            "attackingworkrate": 0,
+            "defensiveworkrate": 0,
+            "preferredfoot": 1,
+            "possiblePositions": [
+                "GK"
+            ],
+            "gender": 1,
+            "baseTraits": [
+                29
+            ]
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "challenges": [
+        {
+            "name": "81+ Tradeable TOTW Upgrade",
+            "priority": 0,
+            "status": "IN_PROGRESS",
+            "setId": 1061,
+            "description": "Earn a tradeable TOTW Player from TOTW 1-30 rated 81 or higher!",
+            "challengeId": 2769,
+            "endTime": 1453350,
+            "repeatable": true,
+            "trophyId": 100,
+            "formation": "f4141",
+            "timesCompleted": 0,
+            "elgReq": [
+                {
+                    "type": "TEAM_RATING_1_TO_100",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 19,
+                    "eligibilityValue": 85
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                }
+            ],
+            "elgDesc": [],
+            "elgOperation": "AND",
+            "tutorial": 0,
+            "type": "OPEN_CHALLENGE"
+        }
+    ]
+}

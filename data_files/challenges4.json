@@ -1,0 +1,53 @@
+{
+    "challenges": [
+        {
+            "name": "FUTTIES Crafting Upgrade",
+            "priority": 0,
+            "status": "IN_PROGRESS",
+            "setId": 1066,
+            "description": "Complete this challenge to progress towards earning the FUTTIES Crafting Objective group's reward.",
+            "challengeId": 2776,
+            "endTime": 1539705,
+            "repeatable": true,
+            "trophyId": 100,
+            "formation": "f442",
+            "timesCompleted": 1,
+            "elgReq": [
+                {
+                    "type": "PLAYER_COUNT",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 2,
+                    "eligibilityValue": 1
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 0
+                },
+                {
+                    "type": "PLAYER_RARITY_GROUP",
+                    "eligibilitySlot": 1,
+                    "eligibilityKey": 25,
+                    "eligibilityValue": 4
+                },
+                {
+                    "type": "PLAYER_QUALITY",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 3,
+                    "eligibilityValue": 3
+                },
+                {
+                    "type": "SCOPE",
+                    "eligibilitySlot": 2,
+                    "eligibilityKey": 13,
+                    "eligibilityValue": 2
+                }
+            ],
+            "elgDesc": [],
+            "elgOperation": "AND",
+            "tutorial": 0,
+            "type": "OPEN_CHALLENGE"
+        }
+    ]
+}
